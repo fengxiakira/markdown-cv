@@ -3,7 +3,7 @@ layout: cv
 title: Mengyuan's CV
 ---
 # Mengyuan Li
-Physicist, Mathematician, Cambridge professor.
+A Third-year Computer Science Student Looking for Fall2020 Internship
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
